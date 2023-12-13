@@ -1,0 +1,17 @@
+├── src
+│   ├── entities
+│   │   └── task.js
+│   ├── usecases
+│   │   ├── taskUseCases.js
+│   │   └── index.js
+│   ├── adapters
+│   │   ├── controllers
+│   │   │   └── taskController.js
+│   │   └── routes
+│   │       └── index.js
+│   ├── config
+│   │   └── express.js
+│   └── index.js
+├── tests
+│   └── taskUseCases.test.js
+└── package.json
